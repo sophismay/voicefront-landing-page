@@ -1,0 +1,74 @@
+.ui-id-33{  width: 884px; top: -103.5px; left: 467.5px; }
+.ui-id-34{  width: 433px; top: 185px; left: 47px; cursor: default; }
+.ui-id-36{  top: 345px; left: 48px; width: 181px; }
+.ui-id-64{ top: 145.5px; left: 48px;}
+.ui-id-37{  width: 250px; top: 195px; left: 57.5px; cursor: default; text-align: center; }
+.ui-id-38{  width: 250px; top: 163px; left: 58px; cursor: default; text-align: center; }
+.ui-id-39{  width: 250px; top: 195px; left: 355px; cursor: default; text-align: center; }
+.ui-id-40{  width: 250px; top: 163px; left: 355px; cursor: default; text-align: center; }
+.ui-id-41{  width: 250px; top: 195px; left: 664.5px; cursor: default; text-align: center; }
+.ui-id-42{  width: 250px; top: 159px; left: 665px; cursor: default; text-align: center; }
+.ui-id-43{  width: 146px; top: 17px; left: 110px; }
+.ui-id-44{  width: 149px; top: 15.5px; left: 405.5px; }
+.ui-id-45{  width: 146px; top: 17px; left: 717px; }
+.ui-id-46{  width: 85px; top: 95px; left: 82px; }
+.ui-id-47{  width: 156px; top: 63px; left: 190.5px; }
+.ui-id-48{  width: 250px; top: 124px; left: 546.5px; cursor: default; }
+.ui-id-49{  width: 250px; top: 86px; left: 547px; cursor: default; }
+.ui-id-50{  width: 88px; top: 386px; left: 746px; }
+.ui-id-51{  width: 185px; top: 387px; left: 555.5px; }
+.ui-id-52{  width: 250px; top: 457px; left: 85.5px; cursor: default; }
+.ui-id-53{  width: 250px; top: 401px; left: 86px; cursor: default; }
+.ui-id-54{  width: 77px; top: 109px; left: 372px; }
+.ui-id-55{  width: 138px; top: 765.5px; left: 86.5px; }
+.ui-id-56{  width: 111px; top: 743px; left: 250px; }
+.ui-id-57{  width: 250px; top: 793px; left: 557px; cursor: default; }
+.ui-id-58{  width: 250px; top: 755px; left: 557px; cursor: default; }
+.ui-id-59{  top: 1127px; left: 395px; }
+.ui-id-60{  width: 539px; top: 1025px; left: 210.5px; cursor: default; text-align: center; }
+.ui-id-62{ top: 31.5px; left: 781.375px;}
+.ui-id-63{ top: 29.5px; left: 12px; cursor: default;}
+.ui-id-1{  height: 739px; background: rgb(255, 255, 255); }
+.ui-id-2{  height: 331px; }
+.ui-id-3{  height: 1272px; background: rgb(255, 255, 255); }
+.ui-id-4{ height: 82px;}
+/* Small screen styling */ 
+@media screen and (max-width: 620px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-height: 720px) and (max-device-width: 1280px) and (max-width: 999px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width: 1000px) and (max-width: 999px) { 
+.ui-id-33{  width: 482px; top: 321px; left: -45px; }
+.ui-id-34{  width: 354px; top: 57px; left: 23px; cursor: default; text-align: center; }
+.ui-id-35{  top: 33px; left: 157.188px; }
+.ui-id-36{  top: 253px; left: 109.5px; width: 181px; }
+.ui-id-37{  width: 250px; top: 196px; left: 71px; cursor: default; text-align: center; }
+.ui-id-38{  width: 250px; top: 163px; left: 71px; cursor: default; text-align: center; }
+.ui-id-39{  width: 250px; top: 487px; left: 75px; cursor: default; text-align: center; }
+.ui-id-40{  width: 250px; top: 457px; left: 71px; cursor: default; text-align: center; }
+.ui-id-41{  width: 250px; top: 726px; left: 75px; cursor: default; text-align: center; }
+.ui-id-42{  width: 250px; top: 699px; left: 75px; cursor: default; text-align: center; }
+.ui-id-43{  width: 146px; top: 13px; left: 127px; }
+.ui-id-44{  width: 149px; top: 308px; left: 121.5px; }
+.ui-id-45{  width: 146px; top: 561px; left: 123px; }
+.ui-id-46{  width: 58px; top: 216.5px; left: 82px; }
+.ui-id-47{  width: 98px; top: 196px; left: 151px; }
+.ui-id-48{  width: 250px; top: 56px; left: 75px; text-align: center; }
+.ui-id-49{  width: 250px; top: 22px; left: 75px; cursor: default; text-align: center; }
+.ui-id-50{  width: 63px; top: 569px; left: 248px; }
+.ui-id-51{  width: 126px; top: 566px; left: 121px; }
+.ui-id-52{  width: 250px; top: 457px; left: 85.5px; text-align: center; }
+.ui-id-53{  width: 250px; top: 401px; left: 86px; cursor: default; text-align: center; }
+.ui-id-54{  width: 62px; top: 212.5px; left: 263px; }
+.ui-id-55{  width: 102px; top: 911.5px; left: 98px; }
+.ui-id-56{  width: 81px; top: 895.5px; left: 211.5px; }
+.ui-id-57{  width: 250px; top: 813px; left: 86px; cursor: default; text-align: center; }
+.ui-id-58{  width: 250px; top: 783px; left: 86px; cursor: default; text-align: center; }
+.ui-id-59{  top: 1247px; left: 115px; }
+.ui-id-60{  width: 353px; top: 1081px; left: 23.5px; cursor: default; text-align: center; }
+.ui-id-1{  height: 603px; background: rgb(255, 255, 255); }
+.ui-id-2{  height: 851px; }
+.ui-id-3{  height: 1388px; background: rgb(255, 255, 255); }
+.ui-id-4{ height: 46px;}
+.undefined{  height: 500px; }
+.ui-id-61{ top: 11.5px; left: 9.5px;}
+.ui-id-62{ top: 13.5px; left: 253.375px;}
+.ui-id-63{ top: 11.5px; left: 12px; cursor: default;}
+.ui-id-64{ top: 29.5px; left: 149.5px;}
+}

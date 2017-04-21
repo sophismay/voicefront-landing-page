@@ -1,0 +1,18 @@
+{
+  "name": "tweak-web-template",
+  "version": "1.0.0",
+  "description": "Template for creating website with tweak",
+  "scripts": {
+    "test": "test",
+    "start": "node bin/http-server -o"
+  },
+  "author": "Ilmi Ali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http-server": "^0.9.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}
