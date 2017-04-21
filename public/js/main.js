@@ -1,7 +1,14 @@
 $(function() {
     //dynamically add x image
+    loadIcons();
     displayNegative();
 });
+
+function loadIcons() {
+    $("#ui-id-45 img").attr({"src": "images/mobile.png"}).css({"height": "120px", "width": "120px"});
+    $("#ui-id-46 img").attr({"src": "images/chair-bw.png"}).css({"height": "120px", "width": "120px"});
+    $("#ui-id-47 img").attr({"src": "images/chip.png"}).css({"height": "120px", "width": "120px"});
+}
 
 function displayNegative() {
     setTimeout(function(){
